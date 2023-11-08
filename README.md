@@ -1,10 +1,11 @@
 
-Hello From Mei Kreates!
-<img width="651" alt="Asset 30@2x" src="https://github.com/Meikreates/Meikreates/assets/143436681/03a13e5f-957d-4d94-ae43-459768055c46">
-<img width="656" alt="Asset 29@2x" src="https://github.com/Meikreates/Meikreates/assets/143436681/3f6c1e78-8c14-4491-933f-a63d6a1d9ff0">
+Hello, Welcome to my github.
+![Asset 2](https://github.com/Meikreates/Meikreates/assets/143436681/e83bde9c-619c-4c29-9309-51b6ac03e7b9)
 
 
-- 👋 Hi, I’m @Meikreates, My real name is Stephanie Stewart
+
+
+- 👋 Hi, I’m Stephanie
 - 👀 I’m interested in Front-End Development, UI/UX Design, Graphic Design and Game Development
 - 🌱 I’m currently learning Front End Development, Grapic Design and UI/UX Design
 - 💞️ I’m looking to collaborate on website design, Front End Development, Gaming projects
